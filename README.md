@@ -14,7 +14,7 @@ I enjoy solving problems, building projects, and continuously improving my codin
 
 ## 💻 Projects
 Here are some highlights of what I’ve worked on:  
-- **DSA Practice in C++** – A collection of solved problems to strengthen algorithmic thinking.  
+- **DSA Practice in Java** – A collection of solved problems to strengthen algorithmic thinking.  
 - **Java Lab Experiments** – College lab exercises uploaded for practice & reference.  
 
 > More projects coming soon as I explore AI and software development 🌱
