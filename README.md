@@ -8,7 +8,7 @@ I enjoy solving problems, building projects, and continuously improving my codin
 ## 🔧 Skills
 - **Languages:** Java, Python (beginner), SQL  
 - **Concepts:** DSA, OOP, Algorithms, AI basics  
-- **Tools & Platforms:** Git, GitHub, Ubuntu, VS Code  
+- **Tools & Platforms:** Git, GitHub, Ubuntu, VS Code, Intellij Idea 
 
 ---
 
@@ -22,7 +22,7 @@ Here are some highlights of what I’ve worked on:
 ---
 
 ## 📫 Connect with Me
-- **LinkedIn:** [Your LinkedIn link]  
+- **LinkedIn:** [www.linkedin.com/in/itsyusuf75]  
 - **Email:** [mohammadyusufpvt001@gmail.com]  
 
 ---
