@@ -1,6 +1,6 @@
 # Hi, I'm Mohammad Yusuf 🌹
 
-Welcome to my GitHub! I’m a 2nd-year Computer Science student passionate about **Java**, **Data Structures & Algorithms (DSA)**, and **AI development**.  
+Welcome to my GitHub! I’m a 2nd-year Computer Science student committed about **Java**, **Data Structures & Algorithms (DSA)**, and **AI development**.  
 I enjoy solving problems, building projects, and continuously improving my coding skills.
 Learning and building and documenting my programming journey in order to build a stable career for myself.
 Looking forward in connecting and interacting with like minded people.
